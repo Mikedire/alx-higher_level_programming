@@ -8,4 +8,5 @@ elif number == 0:
 else:
     print(f"{number} is negative")
 
+# <-- Ensure this line exists as a blank line
 
